@@ -25,7 +25,8 @@ const config: Config = {
   organizationName: 'jcrodri', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
 
-  deploymentBranch: 'gh-pages',
+  //deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
