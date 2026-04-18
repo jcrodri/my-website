@@ -2,7 +2,7 @@
 # my-website
 My Website
 =======
-# Website
+# WebsiteX
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
